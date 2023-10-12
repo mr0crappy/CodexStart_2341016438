@@ -1,3 +1,3 @@
-### Name- Pratyush
-### Registration number - 2341016428
-### CSES -
+- Name: Pratyush
+- Registration number: 2341016428
+- CSES:
