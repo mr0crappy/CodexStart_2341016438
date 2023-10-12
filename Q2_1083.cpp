@@ -1,3 +1,9 @@
+/*
+ *  Name: Pratyush
+ *  Reg No: 2341016438
+ *  PS link: https://cses.fi/problemset/task/1083
+ */
+
 #include <iostream>
 
 int main()
